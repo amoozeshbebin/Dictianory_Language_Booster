@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دیکشنری افزایش سطح زبان</string>
+    <string name="text_view">Text View</string>
+    <string name="language_booster">دیکشنری افزایش سطح زبان</string>
+    <string name="imagebottom">imageBottom</string>
+    <string name="add_word">اضافه کردن کلمه</string>
+    <string name="delete_word">Delete word</string>
+    <string name="add_new_word_to_your_dictionary">اضافه کردن کلمه جدید به دکشنری</string>
+    <string name="meaning">معنی</string>
+    <string name="word">کلمه</string>
+</resources>

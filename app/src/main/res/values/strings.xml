@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dictianory Language Booster</string>
+    <string name="text_view">Text View</string>
+    <string name="language_booster">Language Booster</string>
+    <string name="imagebottom">imageBottom</string>
+    <string name="add_word">Add Word</string>
+    <string name="delete_word">Delete word</string>
+    <string name="add_new_word_to_your_dictionary">Add New Word To Your Dictionary</string>
+    <string name="meaning">Meaning</string>
+    <string name="word">Word</string>
+</resources>
